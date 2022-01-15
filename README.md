@@ -18,4 +18,7 @@ You will produce a report with the following deliverables:
 Python and google colab.
 
 ### Dataset:
-[FitBit](https://www.kaggle.com/arashnic/fitbit) Fitness Tracker Data (CC0: Public Domain, dataset made available through [Mobius](https://www.kaggle.com/arashnic)). This Kaggle data set contains personal fitness tracker from thirty fitbit  users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore users’ habits.
+[FitBit](https://www.kaggle.com/arashnic/fitbit) Fitness Tracker Data (CC0: Public Domain, dataset made available through [Mobius](https://www.kaggle.com/arashnic)).
+This Kaggle data set contains personal fitness tracker from thirty fitbit users. 
+Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. 
+It includes information about daily activity, steps, and heart rate that can be used to explore users’ habits.

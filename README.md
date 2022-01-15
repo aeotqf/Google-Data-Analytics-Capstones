@@ -3,7 +3,7 @@
 ## Case Study 2: How Can a Wellness Technology Company Play It Smart?
 
 ### Scenario:
-<div style="text-align: justify"> You are a junior data analyst working on the marketing analyst team at Bellabeat, 
+<div style='text-align: right;'> You are a junior data analyst working on the marketing analyst team at Bellabeat, 
 a high-tech manufacturer of health-focused products for women. Bellabeat is a 
 successful small company, but they have the potential to become a larger player 
 in the global smart device market. Urška Sršen, cofounder and Chief Creative 
@@ -15,6 +15,7 @@ discover will then help guide marketing strategy for the company.
 You will present your analysis to the Bellabeat executive team 
 along with your high-level recommendations for Bellabeat’s 
 marketing strategy. </div>
+
 
 
 
@@ -31,7 +32,7 @@ You will produce a report with the following deliverables:
 Python and google colab.
 
 ### Dataset:
-<div style="text-align: justify"> [FitBit](https://www.kaggle.com/arashnic/fitbit) Fitness Tracker Data (CC0: Public Domain, dataset made available through [Mobius](https://www.kaggle.com/arashnic)).
+<div style='text-align: right;'> [FitBit](https://www.kaggle.com/arashnic/fitbit) Fitness Tracker Data (CC0: Public Domain, dataset made available through [Mobius](https://www.kaggle.com/arashnic)).
 This Kaggle data set contains personal fitness tracker from thirty fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, 
 including minute-level output for physical activity, heart rate, and sleep monitoring. 
 It includes information about daily activity, steps, and heart rate that can be used to explore users’ habits.</div>
